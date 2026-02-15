@@ -270,3 +270,86 @@ Then lease model can outperform ownership dramatically.
 Without contract guarantee → lease risk increases significantly.
 
 ---
+Perfect — let’s build a **clean, investor-ready Revenue Scenarios table** for the **Master Lease model at $45/day to the owner**.
+
+---
+
+# 🔹 Base Assumptions (Lease Model)
+
+* 70 rooms
+* Lease cost: **$45/day**
+* Monthly lease per room: **$1,350**
+* Total monthly lease: **$94,500**
+* Operating cost per room (staff, utilities, supplies, maintenance): **$850/month**
+* Total monthly operating cost: **$59,500**
+* Total fixed monthly expense:
+  **$154,000**
+
+Break-even rate ≈ **$73/day**
+
+---
+
+# 📊 DETAILED REVENUE SCENARIOS TABLE (100% Occupancy – 70 Rooms)
+
+| Scenario           | Nightly Rate | Monthly Revenue / Room | Total Monthly Revenue | Total Monthly Expenses | Monthly Profit | Annual Profit | Profit Margin |
+| ------------------ | ------------ | ---------------------- | --------------------- | ---------------------- | -------------- | ------------- | ------------- |
+| **Low Case**       | $65          | $1,950                 | $136,500              | $154,000               | **-$17,500**   | -$210,000     | -13%          |
+| **Break-Even**     | $73          | $2,190                 | $153,300              | $154,000               | **-$700**      | -$8,400       | ~0%           |
+| **Stability Case** | $79          | $2,368                 | $165,760              | $154,000               | **$11,760**    | $141,120      | 7%            |
+| **Target Case**    | $92          | $2,762                 | $193,340              | $154,000               | **$39,340**    | $472,080      | 24%           |
+| **Premium Case**   | $110         | $3,315                 | $232,050              | $154,000               | **$78,050**    | $936,600      | 40%           |
+
+---
+
+# 📈 Profit Growth Comparison (Monthly)
+
+```
+$65  → Loss
+$73  → Break-even
+$79  → $11K profit
+$92  → $39K profit
+$110 → $78K profit
+```
+
+---
+
+# 💡 Revenue Sensitivity (Per $5 Rate Increase)
+
+Every $5 increase in nightly rate:
+
+$5 × 30 days × 70 rooms = **$10,500 extra monthly revenue**
+
+Almost all of that flows directly to profit once above break-even.
+
+---
+
+# 🔎 Occupancy Impact at $92 Rate
+
+| Occupied Rooms | Monthly Revenue | Monthly Profit |
+| -------------- | --------------- | -------------- |
+| 70             | $193,340        | $39,340        |
+| 65             | $179,530        | $25,530        |
+| 60             | $165,720        | $11,720        |
+| 55             | $151,910        | -$2,090        |
+
+Break-even occupancy at $92 = **~56 rooms**
+
+---
+
+# 🎯 Strategic Takeaway
+
+Under a $45/day lease:
+
+* $65 rate = not viable
+* $79 rate = thin margin
+* $92 rate = strong operating model
+* $110 rate = high-performance contract
+
+Lease model becomes attractive only if:
+
+✔ Contract ≥ $90/night
+✔ 60+ rooms guaranteed
+✔ 12–24 month term
+
+---
+
