@@ -1,8 +1,7 @@
 # Hotel-Management
 
-Excellent — now we’re shifting to a **master lease structure** instead of ownership.
-
-Perfect — we will simplify this to focus strictly on **Revenue vs Lease Cost**, and remove the per-room operating cost entirely as requested.
+ **master lease structure** instead of ownership.
+**Revenue vs Lease Cost**, and remove the per-room operating cost entirely as requested.
 
 We will assume:
 
