@@ -78,11 +78,111 @@ Lease model amplifies pricing upside significantly.
 
 ---
 
-If you'd like next, I can:
+Perfect — now we’ll layer in **occupancy sensitivity** on the lease model.
 
-• Add occupancy sensitivity (5–10 vacant rooms)
-• Build a graphical investor-style chart
-• Create a government proposal pricing summary
-• Or model blended pricing tiers (long-term vs short-term rooms)
+### Assumptions (No operating costs included)
 
-Where would you like to go next?
+* 70 total rooms
+* Lease cost = **$45/day**
+* Monthly lease per room = **$1,350**
+* Total monthly lease obligation = **$94,500**
+* 30-day stay assumption
+* Revenue scenarios: **$65 / $79 / $92 / $110**
+
+We will show:
+
+* Full occupancy (70 rooms)
+* 5 vacant rooms (65 occupied)
+* 10 vacant rooms (60 occupied)
+
+---
+
+# 📊 OCCUPANCY SENSITIVITY TABLE
+
+(Lease Model – Revenue vs Fixed Lease Only)
+
+---
+
+## 🔹 Scenario A — $65 per Night
+
+| Occupied Rooms | Monthly Revenue | Lease Cost | Monthly Gross Spread | Annual Gross Spread | Margin |
+| -------------- | --------------- | ---------- | -------------------- | ------------------- | ------ |
+| 70             | $136,500        | $94,500    | $42,000              | $504,000            | 31%    |
+| 65             | $126,750        | $94,500    | $32,250              | $387,000            | 25%    |
+| 60             | $117,000        | $94,500    | $22,500              | $270,000            | 19%    |
+
+🔎 Margin compresses quickly below 65 rooms.
+
+---
+
+## 🔹 Scenario B — $79 per Night
+
+| Occupied Rooms | Monthly Revenue | Lease Cost | Monthly Gross Spread | Annual Gross Spread | Margin |
+| -------------- | --------------- | ---------- | -------------------- | ------------------- | ------ |
+| 70             | $165,760        | $94,500    | $71,260              | $855,120            | 43%    |
+| 65             | $153,920        | $94,500    | $59,420              | $713,040            | 39%    |
+| 60             | $142,080        | $94,500    | $47,580              | $570,960            | 33%    |
+
+Much stronger cushion.
+
+---
+
+## 🔹 Scenario C — $92 per Night
+
+| Occupied Rooms | Monthly Revenue | Lease Cost | Monthly Gross Spread | Annual Gross Spread | Margin |
+| -------------- | --------------- | ---------- | -------------------- | ------------------- | ------ |
+| 70             | $193,340        | $94,500    | $98,840              | $1,186,080          | 51%    |
+| 65             | $179,530        | $94,500    | $85,030              | $1,020,360          | 47%    |
+| 60             | $165,720        | $94,500    | $71,220              | $854,640            | 43%    |
+
+Very stable even with 10 vacant rooms.
+
+---
+
+## 🔹 Scenario D — $110 per Night
+
+| Occupied Rooms | Monthly Revenue | Lease Cost | Monthly Gross Spread | Annual Gross Spread | Margin |
+| -------------- | --------------- | ---------- | -------------------- | ------------------- | ------ |
+| 70             | $232,050        | $94,500    | $137,550             | $1,650,600          | 59%    |
+| 65             | $215,325        | $94,500    | $120,825             | $1,449,900          | 56%    |
+| 60             | $198,600        | $94,500    | $104,100             | $1,249,200          | 52%    |
+
+Extremely strong resilience.
+
+---
+
+# 📌 Break-Even Occupancy by Rate
+
+| Rate | Break-Even Rooms | Break-Even % |
+| ---- | ---------------- | ------------ |
+| $65  | 49 rooms         | 70%          |
+| $79  | 40 rooms         | 57%          |
+| $92  | 35 rooms         | 50%          |
+| $110 | 29 rooms         | 41%          |
+
+---
+
+# 📈 Visual Stability Snapshot
+
+```
+Monthly Gross Spread (60 Rooms)
+
+$65  | ███ $22K
+$79  | ███████ $47K
+$92  | ███████████ $71K
+$110 | ███████████████ $104K
+```
+
+---
+
+# 💡 Strategic Insight
+
+Under a lease model:
+
+* At $65 → You are vulnerable to vacancy.
+* At $79 → Moderate cushion.
+* At $92 → Strong operating stability.
+* At $110 → Highly resilient business model.
+
+Lease structure magnifies both upside and downside.
+
