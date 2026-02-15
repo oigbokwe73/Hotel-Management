@@ -270,7 +270,7 @@ Then lease model can outperform ownership dramatically.
 Without contract guarantee → lease risk increases significantly.
 
 ---
-Perfect — let’s build a **clean, investor-ready Revenue Scenarios table** for the **Master Lease model at $45/day to the owner**.
+ **clean, investor-ready Revenue Scenarios table** for the **Master Lease model at $45/day to the owner**.
 
 ---
 
