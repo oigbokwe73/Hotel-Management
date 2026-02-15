@@ -2,7 +2,7 @@
 
  **master lease structure** instead of ownership.
  
-**Revenue vs Lease Cost**, and remove the per-room operating cost entirely as requested.
+**Revenue vs Lease Cost**.
 
 We will assume:
 
